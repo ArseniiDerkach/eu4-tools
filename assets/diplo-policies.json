@@ -1,0 +1,778 @@
+[
+    {
+        "name": "The Diplomatic Cooperation",
+        "ideas": [
+            " Innovative ideas",
+            " Diplomatic ideas"
+        ],
+        "effects": [
+            " −15% Advisor cost",
+            " +1 Diplomatic reputation"
+        ]
+    },
+    {
+        "name": "Innovative Payment Techniques",
+        "ideas": [
+            " Court ideas",
+            " Mercenary ideas"
+        ],
+        "effects": [
+            " −33% Mercenary cost"
+        ]
+    },
+    {
+        "name": "Plutocratic Ethos",
+        "ideas": [
+            " Court ideas",
+            " Plutocratic ideas"
+        ],
+        "effects": [
+            " +25% Reform progress growth"
+        ]
+    },
+    {
+        "name": "Clan Unity Act",
+        "ideas": [
+            " Court ideas",
+            " Horde ideas"
+        ],
+        "effects": [
+            " +1 Yearly horde unity",
+            " −10% Aggressive expansion impact"
+        ]
+    },
+    {
+        "name": "The Recruitment Act",
+        "ideas": [
+            " Maritime ideas",
+            " Economic ideas"
+        ],
+        "effects": [
+            " +25% National sailors modifier",
+            " +10% Marines force limit"
+        ]
+    },
+    {
+        "name": "Hold the Weather Gauge",
+        "ideas": [
+            " Maritime ideas",
+            " Offensive ideas"
+        ],
+        "effects": [
+            " +1 Naval leader maneuver",
+            " +5% Ship durability"
+        ]
+    },
+    {
+        "name": "The Fleet is our Wooden Wall",
+        "ideas": [
+            " Maritime ideas",
+            " Defensive ideas"
+        ],
+        "effects": [
+            " −10% Ship cost",
+            " +15% Naval forcelimit modifier"
+        ]
+    },
+    {
+        "name": "Importation Act",
+        "ideas": [
+            " Trade ideas",
+            " Administrative ideas"
+        ],
+        "effects": [
+            " +10% Trade efficiency",
+            " −20% Cost to promote mercantilism"
+        ]
+    },
+    {
+        "name": "Colonial Expansion",
+        "ideas": [
+            " Expansion ideas",
+            " Exploration ideas"
+        ],
+        "effects": [
+            " +15 Global settler increase",
+            " −50% Native uprising chance"
+        ]
+    },
+    {
+        "name": "Benign Neglect",
+        "ideas": [
+            " Exploration ideas",
+            " Innovative ideas"
+        ],
+        "effects": [
+            " +5% Settler chance",
+            " +10% Global trade power"
+        ]
+    },
+    {
+        "name": "Colonial Restrictions",
+        "ideas": [
+            " Exploration ideas",
+            " Religious ideas"
+        ],
+        "effects": [
+            " +2% Missionary strength",
+            " −15% Liberty desire from subjects development"
+        ]
+    },
+    {
+        "name": "Naval Infrastructure",
+        "ideas": [
+            " Maritime ideas",
+            " Expansion ideas"
+        ],
+        "effects": [
+            " +33% Naval forcelimit modifier"
+        ]
+    },
+    {
+        "name": "New Naval Tactics",
+        "ideas": [
+            " Innovative ideas",
+            " Maritime ideas"
+        ],
+        "effects": [
+            " +1 Naval leader maneuver",
+            " +10% Heavy ship combat ability"
+        ]
+    },
+    {
+        "name": "Trade Connections Policy",
+        "ideas": [
+            " Aristocratic ideas",
+            " Trade ideas"
+        ],
+        "effects": [
+            " +30% Trade power abroad",
+            " +1 Merchant"
+        ]
+    },
+    {
+        "name": "The Naval Secrecy Act",
+        "ideas": [
+            " Exploration ideas",
+            " Defensive ideas"
+        ],
+        "effects": [
+            " −10% Morale hit when losing a ship",
+            " +10% Morale of navies"
+        ]
+    },
+    {
+        "name": "Streamlined Galley Production",
+        "ideas": [
+            " Maritime ideas",
+            " Quantity ideas"
+        ],
+        "effects": [
+            " −15% Galley cost",
+            " +15% Galley combat ability"
+        ]
+    },
+    {
+        "name": "Cloth Quality Edict",
+        "ideas": [
+            " Trade ideas",
+            " Quality ideas"
+        ],
+        "effects": [
+            " +15% Trade efficiency"
+        ]
+    },
+    {
+        "name": "The Production Quota Act",
+        "ideas": [
+            " Trade ideas",
+            " Quantity ideas"
+        ],
+        "effects": [
+            " +15% Goods produced modifier"
+        ]
+    },
+    {
+        "name": "Encouragement of Merchant Navy",
+        "ideas": [
+            " Trade ideas",
+            " Expansion ideas"
+        ],
+        "effects": [
+            " +10% Trade efficiency",
+            " +20% Trade steering"
+        ]
+    },
+    {
+        "name": "Commercial Embassies",
+        "ideas": [
+            " Diplomatic ideas",
+            " Expansion ideas"
+        ],
+        "effects": [
+            " +10% Global trade power",
+            " +1 Diplomatic reputation"
+        ]
+    },
+    {
+        "name": "Mandatory Service",
+        "ideas": [
+            " Diplomatic ideas",
+            " Plutocratic ideas"
+        ],
+        "effects": [
+            " −10% Reelection cost",
+            " +10% National manpower modifier",
+            " May recruit female generals",
+            " +25% Female advisor chance"
+        ]
+    },
+    {
+        "name": "Professional Diplomatic Corps",
+        "ideas": [
+            " Diplomatic ideas",
+            " Quality ideas"
+        ],
+        "effects": [
+            " +1 Diplomatic reputation",
+            " −0.05 Monthly war exhaustion"
+        ]
+    },
+    {
+        "name": "The Colonial Companies Act",
+        "ideas": [
+            " Exploration ideas",
+            " Plutocratic ideas"
+        ],
+        "effects": [
+            " +20% Colonial range",
+            " +10 Global settler increase"
+        ]
+    },
+    {
+        "name": "The Protected Shipping Lanes Act",
+        "ideas": [
+            " Maritime ideas",
+            " Plutocratic ideas"
+        ],
+        "effects": [
+            " −15% Light ship cost",
+            " +20% Ship trade power"
+        ]
+    },
+    {
+        "name": "Chaplains of the Fleet",
+        "ideas": [
+            " Religious ideas",
+            " Maritime ideas"
+        ],
+        "effects": [
+            " +10% Morale of navies",
+            " +10% Recover navy morale speed"
+        ]
+    },
+    {
+        "name": "Multilingual Diplomats",
+        "ideas": [
+            " Humanist ideas",
+            " Diplomatic ideas"
+        ],
+        "effects": [
+            " +1 Max promoted culture",
+            " +20% Improve relations"
+        ]
+    },
+    {
+        "name": "Native Assimilation Act",
+        "ideas": [
+            " Humanist ideas",
+            " Exploration ideas"
+        ],
+        "effects": [
+            " +10 Global settler increase",
+            " +50% Native assimilation"
+        ]
+    },
+    {
+        "name": "The Foreign Aid Act",
+        "ideas": [
+            " Humanist ideas",
+            " Influence ideas"
+        ],
+        "effects": [
+            " +1 Diplomatic relation",
+            " +1 Diplomatic reputation"
+        ]
+    },
+    {
+        "name": "Cultural Unity",
+        "ideas": [
+            " Influence ideas",
+            " Religious ideas"
+        ],
+        "effects": [
+            " −15% Culture conversion cost"
+        ]
+    },
+    {
+        "name": "Terms of Surrender Statute",
+        "ideas": [
+            " Naval ideas",
+            " Diplomatic ideas"
+        ],
+        "effects": [
+            " +33% Chance to capture enemy ships"
+        ]
+    },
+    {
+        "name": "Skilled Cartographers",
+        "ideas": [
+            " Naval ideas",
+            " Exploration ideas"
+        ],
+        "effects": [
+            " +20% Global naval engagement"
+        ]
+    },
+    {
+        "name": "Fortified Trading Posts",
+        "ideas": [
+            " Naval ideas",
+            " Trade ideas"
+        ],
+        "effects": [
+            " +33% Ship trade power"
+        ]
+    },
+    {
+        "name": "The Integrated Administration Act",
+        "ideas": [
+            " Influence ideas",
+            " Quality ideas"
+        ],
+        "effects": [
+            " +25% Income from vassals",
+            " −10% Diplomatic annexation cost"
+        ]
+    },
+    {
+        "name": "The Cooperation Act",
+        "ideas": [
+            " Naval ideas",
+            " Influence ideas"
+        ],
+        "effects": [
+            " +33% Caravan power",
+            " +1 Merchant"
+        ]
+    },
+    {
+        "name": "The Recordkeeping Act",
+        "ideas": [
+            " Administrative ideas",
+            " Diplomatic ideas"
+        ],
+        "effects": [
+            " +1 Diplomat",
+            " −0.05 Monthly autonomy change"
+        ]
+    },
+    {
+        "name": "The Colonial Administration Act",
+        "ideas": [
+            " Administrative ideas",
+            " Exploration ideas"
+        ],
+        "effects": [
+            " +10 Global settler increase",
+            " +5% Settler chance"
+        ]
+    },
+    {
+        "name": "The Naval School Act",
+        "ideas": [
+            " Administrative ideas",
+            " Maritime ideas"
+        ],
+        "effects": [
+            " +1 Yearly navy tradition"
+        ]
+    },
+    {
+        "name": "The Foreign Support Act",
+        "ideas": [
+            " Espionage ideas",
+            " Economic ideas"
+        ],
+        "effects": [
+            " +50% Rebel support efficiency",
+            " +1 Diplomat"
+        ]
+    },
+    {
+        "name": "The Stamp Act",
+        "ideas": [
+            " Economic ideas",
+            " Exploration ideas"
+        ],
+        "effects": [
+            " +10% Global trade power",
+            " +15% Global tariffs"
+        ]
+    },
+    {
+        "name": "The Black Chamber Act",
+        "ideas": [
+            " Espionage ideas",
+            " Offensive ideas"
+        ],
+        "effects": [
+            " +25% Spy network construction",
+            " +1 Diplomat"
+        ]
+    },
+    {
+        "name": "The Diplomatic Defense Act",
+        "ideas": [
+            " Diplomatic ideas",
+            " Defensive ideas"
+        ],
+        "effects": [
+            " +1 Diplomat",
+            " +20% Improve relations"
+        ]
+    },
+    {
+        "name": "The Armed Neutrality Act",
+        "ideas": [
+            " Defensive ideas",
+            " Trade ideas"
+        ],
+        "effects": [
+            " +25% Trade steering",
+            " +1 Merchant"
+        ]
+    },
+    {
+        "name": "The Naval Supremacy Act",
+        "ideas": [
+            " Naval ideas",
+            " Maritime ideas"
+        ],
+        "effects": [
+            " +1 Blockade impact on siege",
+            " +50% Blockade efficiency"
+        ]
+    },
+    {
+        "name": "Sponsored Privateers",
+        "ideas": [
+            " Offensive ideas",
+            " Exploration ideas"
+        ],
+        "effects": [
+            " +50% Privateer efficiency",
+            " +25% Chance to capture enemy ships"
+        ]
+    },
+    {
+        "name": "The Organized Marines Act",
+        "ideas": [
+            " Quality ideas",
+            " Maritime ideas"
+        ],
+        "effects": [
+            " +10% Morale of navies",
+            " +10% Marines force limit"
+        ]
+    },
+    {
+        "name": "Steppe Nomad Migrations",
+        "ideas": [
+            " Horde ideas",
+            " Exploration ideas"
+        ],
+        "effects": [
+            " +5% Settler chance",
+            " −50% Native uprising chance"
+        ]
+    },
+    {
+        "name": "Riverine Navy",
+        "ideas": [
+            " Horde ideas",
+            " Maritime ideas"
+        ],
+        "effects": [
+            " +10% Naval forcelimit modifier",
+            " +1 Yearly navy tradition"
+        ]
+    },
+    {
+        "name": "Passport to Merchants",
+        "ideas": [
+            " Horde ideas",
+            " Trade ideas"
+        ],
+        "effects": [
+            " −20% Cost to promote mercantilism",
+            " +10% Domestic trade power"
+        ]
+    },
+    {
+        "name": "Faith Advisors",
+        "ideas": [
+            " Divine ideas",
+            " Diplomatic ideas"
+        ],
+        "effects": [
+            " +1 Yearly papal influence",
+            " +15% Church power",
+            " +1 Monthly fervor",
+            " +0.5% Yearly patriarch authority",
+            " +0.5 Yearly harmony increase",
+            " +5% Yearly karma decay",
+            " +0.1 Monthly piety",
+            " +1 Diplomatic reputation"
+        ]
+    },
+    {
+        "name": "One and True",
+        "ideas": [
+            " Divine ideas",
+            " Influence ideas"
+        ],
+        "effects": [
+            " −10% Liberty desire in subjects",
+            " +1% Missionary strength"
+        ]
+    },
+    {
+        "name": "Maritime Scribes",
+        "ideas": [
+            " Divine ideas",
+            " Maritime ideas"
+        ],
+        "effects": [
+            " +50% Naval tradition from battles",
+            " +100% Prestige from naval battles"
+        ]
+    },
+    {
+        "name": "Solidarity",
+        "ideas": [
+            " Divine ideas",
+            " Trade ideas"
+        ],
+        "effects": [
+            " +15% Improve relations",
+            " +10% Trade efficiency"
+        ]
+    },
+    {
+        "name": "Appeal to the Old Powers",
+        "ideas": [
+            " Indigenous ideas",
+            " Diplomatic ideas"
+        ],
+        "effects": [
+            " +1 Diplomatic reputation",
+            " +15% Improve relations"
+        ]
+    },
+    {
+        "name": "Indirect Approach",
+        "ideas": [
+            " Indigenous ideas",
+            " Espionage ideas"
+        ],
+        "effects": [
+            " +10% Movement speed",
+            " −10% Land attrition"
+        ]
+    },
+    {
+        "name": "Loyalty to the Land",
+        "ideas": [
+            " Indigenous ideas",
+            " Influence ideas"
+        ],
+        "effects": [
+            " +1 Diplomatic relation",
+            " −15% Liberty desire from subjects development"
+        ]
+    },
+    {
+        "name": "Commercial Tribes",
+        "ideas": [
+            " Indigenous ideas",
+            " Trade ideas"
+        ],
+        "effects": [
+            " +15% Trade range",
+            " +25% Colonial range"
+        ]
+    },
+    {
+        "name": "Canoe Expertise",
+        "ideas": [
+            " Indigenous ideas",
+            " Maritime ideas"
+        ],
+        "effects": [
+            " +25% Ship disengagement chance"
+        ]
+    },
+    {
+        "name": "Spy Network Act",
+        "ideas": [
+            " Infrastructure ideas",
+            " Espionage ideas"
+        ],
+        "effects": [
+            " −25% Envoy travel time",
+            " +50% Spy network construction"
+        ]
+    },
+    {
+        "name": "Smooth Integration Act",
+        "ideas": [
+            " Infrastructure ideas",
+            " Diplomatic ideas"
+        ],
+        "effects": [
+            " +1 Diplomatic reputation",
+            " −10 Years for personal union integration"
+        ]
+    },
+    {
+        "name": "Global Trade Networks Act",
+        "ideas": [
+            " Infrastructure ideas",
+            " Trade ideas"
+        ],
+        "effects": [
+            " +10% Goods produced modifier",
+            " +10% Global trade power"
+        ]
+    },
+    {
+        "name": "Colonial Improvement Act",
+        "ideas": [
+            " Infrastructure ideas",
+            " Exploration ideas"
+        ],
+        "effects": [
+            " +1 Colony development boost"
+        ]
+    },
+    {
+        "name": "Sailor Efficiency Act",
+        "ideas": [
+            " Infrastructure ideas",
+            " Maritime ideas"
+        ],
+        "effects": [
+            " −20% Sailor maintenance",
+            " +25% Ship repair"
+        ]
+    },
+    {
+        "name": "Diplomatic Consolidation Act",
+        "ideas": [
+            " Infrastructure ideas",
+            " Influence ideas"
+        ],
+        "effects": [
+            " +50% Monthly favor growth modifier",
+            " Allow claims bordering claims"
+        ]
+    },
+    {
+        "name": "Centralization of Power Act",
+        "ideas": [
+            " Infrastructure ideas",
+            " Court ideas"
+        ],
+        "effects": [
+            " +10 Maximum absolutism",
+            " −0.1 Yearly corruption"
+        ]
+    },
+    {
+        "name": "Loyal Conduct Act",
+        "ideas": [
+            " Mercenary ideas",
+            " Espionage ideas"
+        ],
+        "effects": [
+            " +33% Foreign spy detection",
+            " +15% Fort defense"
+        ]
+    },
+    {
+        "name": "Diplomatic Arms Act",
+        "ideas": [
+            " Mercenary ideas",
+            " Diplomatic ideas"
+        ],
+        "effects": [
+            " +2 Diplomatic relations"
+        ]
+    },
+    {
+        "name": "Merchants for Hire Act",
+        "ideas": [
+            " Mercenary ideas",
+            " Trade ideas"
+        ],
+        "effects": [
+            " +33% Ship trade power",
+            " −10% Light ship cost"
+        ]
+    },
+    {
+        "name": "Transportation Act",
+        "ideas": [
+            " Mercenary ideas",
+            " Exploration ideas"
+        ],
+        "effects": [
+            " +50% Privateer efficiency",
+            " −50% Attrition when loaded on ships"
+        ]
+    },
+    {
+        "name": "Maritime Expertise Act",
+        "ideas": [
+            " Mercenary ideas",
+            " Maritime ideas"
+        ],
+        "effects": [
+            " +10% Marines force limit",
+            " −10% Ship cost"
+        ]
+    },
+    {
+        "name": "Client State Act",
+        "ideas": [
+            " Mercenary ideas",
+            " Influence ideas"
+        ],
+        "effects": [
+            " +50% Vassal force limit contribution",
+            " Can create client states"
+        ]
+    },
+    {
+        "name": "Native Emissaries Act",
+        "ideas": [
+            " Indigenous ideas",
+            " Court ideas"
+        ],
+        "effects": [
+            " +0.2 Monthly federation favor growth",
+            " −10% Aggressive expansion impact"
+        ]
+    }
+]

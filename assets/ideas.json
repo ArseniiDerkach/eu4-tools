@@ -1,0 +1,28 @@
+[
+    { "id": "adm1", "name": "Innovative", "category": "adm" },
+    { "id": "adm2", "name": "Religious", "category": "adm" },
+    { "id": "adm3", "name": "Economic", "category": "adm" },
+    { "id": "adm4", "name": "Expansion", "category": "adm" },
+    { "id": "adm5", "name": "Administrative", "category": "adm" },
+    { "id": "adm6", "name": "Humanist", "category": "adm" },
+    { "id": "adm7", "name": "Infrastructure", "category": "adm" },
+    { "id": "dip1", "name": "Espionage", "category": "dip" },
+    { "id": "dip2", "name": "Diplomatic", "category": "dip" },
+    { "id": "dip3", "name": "Trade", "category": "dip" },
+    { "id": "dip4", "name": "Exploration", "category": "dip" },
+    { "id": "dip5", "name": "Maritime", "category": "dip" },
+    { "id": "dip6", "name": "Influence", "category": "dip" },
+    { "id": "dip7", "name": "Court", "category": "dip" },
+    { "id": "mil1", "name": "Aristocratic", "category": "mil" },
+    { "id": "mil2", "name": "Plutocratic", "category": "mil" },
+    { "id": "mil3", "name": "Divine", "category": "mil" },
+    { "id": "mil4", "name": "Horde", "category": "mil" },
+    { "id": "mil5", "name": "Indigenous", "category": "mil" },
+    { "id": "mil6", "name": "Offensive", "category": "mil" },
+    { "id": "mil7", "name": "Defensive", "category": "mil" },
+    { "id": "mil8", "name": "Quality", "category": "mil" },
+    { "id": "mil9", "name": "Quantity", "category": "mil" },
+    { "id": "mil10", "name": "Naval", "category": "mil" },
+    { "id": "mil11", "name": "Mercenary", "category": "mil" }
+  ]
+  

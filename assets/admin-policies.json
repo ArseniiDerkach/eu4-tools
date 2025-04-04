@@ -1,0 +1,734 @@
+[
+    {
+        "name": "The Combination Act",
+        "ideas": [
+            " Aristocratic ideas",
+            " Innovative ideas"
+        ],
+        "effects": [
+            " +20% Production efficiency"
+        ]
+    },
+    {
+        "name": "The Court of Wards and Liveries",
+        "ideas": [
+            " Aristocratic ideas",
+            " Economic ideas"
+        ],
+        "effects": [
+            " +10% National tax modifier",
+            " −10% Cavalry cost"
+        ]
+    },
+    {
+        "name": "Formalized Scales, Weights and Measures",
+        "ideas": [
+            " Plutocratic ideas",
+            " Economic ideas"
+        ],
+        "effects": [
+            " +10% National tax modifier",
+            " +0.2 Yearly republican tradition"
+        ]
+    },
+    {
+        "name": "Agricultural Cultivation",
+        "ideas": [
+            " Economic ideas",
+            " Quantity ideas"
+        ],
+        "effects": [
+            " −5% Land maintenance modifier",
+            " +10% Land force limit modifier"
+        ]
+    },
+    {
+        "name": "The Espionage Act",
+        "ideas": [
+            " Innovative ideas",
+            " Espionage ideas"
+        ],
+        "effects": [
+            " −25% Stability cost modifier",
+            " +1 Diplomat"
+        ]
+    },
+    {
+        "name": "Manueline Architecture",
+        "ideas": [
+            " Aristocratic ideas",
+            " Expansion ideas"
+        ],
+        "effects": [
+            " −15% Construction cost"
+        ]
+    },
+    {
+        "name": "The Royal Commission Act",
+        "ideas": [
+            " Espionage ideas",
+            " Administrative ideas"
+        ],
+        "effects": [
+            " −0.15 Yearly corruption",
+            " −20% Advisor cost"
+        ]
+    },
+    {
+        "name": "Edict of Resistance",
+        "ideas": [
+            " Defensive ideas",
+            " Religious ideas"
+        ],
+        "effects": [
+            " −1 National unrest",
+            " +1 Attrition for enemies"
+        ]
+    },
+    {
+        "name": "The Public Welfare Act",
+        "ideas": [
+            " Defensive ideas",
+            " Economic ideas"
+        ],
+        "effects": [
+            " −10% Development cost in primary culture",
+            " −25% Stability cost modifier"
+        ]
+    },
+    {
+        "name": "The Spy Discovery Act",
+        "ideas": [
+            " Defensive ideas",
+            " Administrative ideas"
+        ],
+        "effects": [
+            " +2 Possible advisors",
+            " −25% Harsh treatment cost"
+        ]
+    },
+    {
+        "name": "Enforce Religious Law",
+        "ideas": [
+            " Religious ideas",
+            " Espionage ideas"
+        ],
+        "effects": [
+            " +2% Missionary strength"
+        ]
+    },
+    {
+        "name": "The Tolerance Act",
+        "ideas": [
+            " Religious ideas",
+            " Plutocratic ideas"
+        ],
+        "effects": [
+            " +2 Tolerance of heretics",
+            " −50% Fort maintenance on border with rival"
+        ]
+    },
+    {
+        "name": "Vassal Taxation Policy",
+        "ideas": [
+            " Offensive ideas",
+            " Administrative ideas"
+        ],
+        "effects": [
+            " +20% Income from vassals",
+            " −10% Liberty desire in same continent subjects"
+        ]
+    },
+    {
+        "name": "The Pioneer Policy",
+        "ideas": [
+            " Offensive ideas",
+            " Expansion ideas"
+        ],
+        "effects": [
+            " Automatically discover adjacent when a colony is built.",
+            " +5% Settler chance"
+        ]
+    },
+    {
+        "name": "The Land Inheritance Act",
+        "ideas": [
+            " Administrative ideas",
+            " Plutocratic ideas"
+        ],
+        "effects": [
+            " +10% National tax modifier",
+            " +10% National manpower modifier"
+        ]
+    },
+    {
+        "name": "The Witchcraft Act",
+        "ideas": [
+            " Religious ideas",
+            " Aristocratic ideas"
+        ],
+        "effects": [
+            " −1 National unrest",
+            " +1% Missionary strength"
+        ]
+    },
+    {
+        "name": "The Education Act",
+        "ideas": [
+            " Innovative ideas",
+            " Plutocratic ideas"
+        ],
+        "effects": [
+            " +0.5 Yearly prestige",
+            " −10% Advisor cost"
+        ]
+    },
+    {
+        "name": "Policy of Calculated Delay",
+        "ideas": [
+            " Religious ideas",
+            " Diplomatic ideas"
+        ],
+        "effects": [
+            " +25% Religious unity",
+            " +1% Missionary strength"
+        ]
+    },
+    {
+        "name": "The Loyalty Act",
+        "ideas": [
+            " Espionage ideas",
+            " Expansion ideas"
+        ],
+        "effects": [
+            " −0.05 Monthly autonomy change",
+            " −25% Cost to fabricate claims"
+        ]
+    },
+    {
+        "name": "Exchange of Ideas",
+        "ideas": [
+            " Humanist ideas",
+            " Trade ideas"
+        ],
+        "effects": [
+            " −10% Idea cost",
+            " +20% Institution spread"
+        ]
+    },
+    {
+        "name": "Vassal Obligations Act",
+        "ideas": [
+            " Influence ideas",
+            " Economic ideas"
+        ],
+        "effects": [
+            " +1 Diplomatic relation",
+            " +100% Vassal force limit contribution"
+        ]
+    },
+    {
+        "name": "Foreign Advisors",
+        "ideas": [
+            " Influence ideas",
+            " Innovative ideas"
+        ],
+        "effects": [
+            " −10% Advisor cost",
+            " −10% Aggressive expansion impact"
+        ]
+    },
+    {
+        "name": "Vassal Integration Act",
+        "ideas": [
+            " Influence ideas",
+            " Administrative ideas"
+        ],
+        "effects": [
+            " −15% Diplomatic annexation cost"
+        ]
+    },
+    {
+        "name": "Overseas Dominions",
+        "ideas": [
+            " Influence ideas",
+            " Expansion ideas"
+        ],
+        "effects": [
+            " −15% Liberty desire in subjects"
+        ]
+    },
+    {
+        "name": "Enlightened Aristocracy",
+        "ideas": [
+            " Humanist ideas",
+            " Aristocratic ideas"
+        ],
+        "effects": [
+            " +10% Production efficiency",
+            " +25% Religious unity"
+        ]
+    },
+    {
+        "name": "The Liberation Act",
+        "ideas": [
+            " Humanist ideas",
+            " Offensive ideas"
+        ],
+        "effects": [
+            " −1 National unrest",
+            " −5 Years of separatism"
+        ]
+    },
+    {
+        "name": "Visionary Thinkers",
+        "ideas": [
+            " Humanist ideas",
+            " Quality ideas"
+        ],
+        "effects": [
+            " +50% Innovativeness gain",
+            " −1% Yearly army tradition decay"
+        ]
+    },
+    {
+        "name": "The Transportation Act",
+        "ideas": [
+            " Naval ideas",
+            " Economic ideas"
+        ],
+        "effects": [
+            " +10% Goods produced modifier",
+            " +10% Production efficiency"
+        ]
+    },
+    {
+        "name": "Harbor Administration",
+        "ideas": [
+            " Naval ideas",
+            " Administrative ideas"
+        ],
+        "effects": [
+            " −20% Institution embracement cost",
+            " −10% Shipbuilding time"
+        ]
+    },
+    {
+        "name": "Supply Convoys",
+        "ideas": [
+            " Naval ideas",
+            " Expansion ideas"
+        ],
+        "effects": [
+            " −50% State maintenance",
+            " −25% Liberty desire from subjects development"
+        ]
+    },
+    {
+        "name": "Cultural Recognition Act",
+        "ideas": [
+            " Humanist ideas",
+            " Plutocratic ideas"
+        ],
+        "effects": [
+            " +1 Max promoted culture",
+            " +10% Institution spread"
+        ]
+    },
+    {
+        "name": "The Licensing of the Press Act",
+        "ideas": [
+            " Administrative ideas",
+            " Aristocratic ideas"
+        ],
+        "effects": [
+            " +1 Yearly legitimacy",
+            " +0.25 Yearly republican tradition",
+            " +1 Yearly devotion",
+            " +1 Yearly horde unity",
+            " +0.5 Yearly meritocracy",
+            " +20% Reform progress growth"
+        ]
+    },
+    {
+        "name": "The Dissolution Act",
+        "ideas": [
+            " Diplomatic ideas",
+            " Economic ideas"
+        ],
+        "effects": [
+            " +15% National tax modifier",
+            " −0.05 Monthly autonomy change"
+        ]
+    },
+    {
+        "name": "The Statute of Monopolies",
+        "ideas": [
+            " Trade ideas",
+            " Economic ideas"
+        ],
+        "effects": [
+            " +10% Production efficiency",
+            " +10% Trade efficiency"
+        ]
+    },
+    {
+        "name": "Taxation with Representation",
+        "ideas": [
+            " Expansion ideas",
+            " Plutocratic ideas"
+        ],
+        "effects": [
+            " +10% Production efficiency",
+            " +10% National manpower modifier"
+        ]
+    },
+    {
+        "name": "Cultural Understanding",
+        "ideas": [
+            " Humanist ideas",
+            " Espionage ideas"
+        ],
+        "effects": [
+            " −1 National unrest",
+            " +100% Rebel support efficiency"
+        ]
+    },
+    {
+        "name": "The Citrus Statute",
+        "ideas": [
+            " Humanist ideas",
+            " Maritime ideas"
+        ],
+        "effects": [
+            " +20% National tax modifier",
+            " −25% Morale hit when losing a ship"
+        ]
+    },
+    {
+        "name": "The Banking System",
+        "ideas": [
+            " Innovative ideas",
+            " Trade ideas"
+        ],
+        "effects": [
+            " −0.25 Interest per annum",
+            " +10% Trade efficiency"
+        ]
+    },
+    {
+        "name": "Religiously Sponsored Guilds",
+        "ideas": [
+            " Religious ideas",
+            " Trade ideas"
+        ],
+        "effects": [
+            " +10% Goods produced modifier",
+            " +1% Missionary strength"
+        ]
+    },
+    {
+        "name": "The Anti-Heresy Act",
+        "ideas": [
+            " Religious ideas",
+            " Offensive ideas"
+        ],
+        "effects": [
+            " +20% Religious unity",
+            " +3% Missionary strength vs heretics"
+        ]
+    },
+    {
+        "name": "Steppe Supplies",
+        "ideas": [
+            " Administrative ideas",
+            " Horde ideas"
+        ],
+        "effects": [
+            " +10% National manpower modifier",
+            " +15% Manpower recovery speed"
+        ]
+    },
+    {
+        "name": "To the Ground",
+        "ideas": [
+            " Economic ideas",
+            " Horde ideas"
+        ],
+        "effects": [
+            " +33% Razing power gain",
+            " +1 Yearly horde unity"
+        ]
+    },
+    {
+        "name": "Calming the Tides",
+        "ideas": [
+            " Humanist ideas",
+            " Horde ideas"
+        ],
+        "effects": [
+            " −2 National unrest",
+            " +0.5 Yearly prestige"
+        ]
+    },
+    {
+        "name": "Esprit de Corps",
+        "ideas": [
+            " Religious ideas",
+            " Horde ideas"
+        ],
+        "effects": [
+            " −5 Years of separatism",
+            " +1% Missionary strength"
+        ]
+    },
+    {
+        "name": "Otto Per Mille",
+        "ideas": [
+            " Economic ideas",
+            " Divine ideas"
+        ],
+        "effects": [
+            " −5% Core-creation cost",
+            " −5 Years of separatism"
+        ]
+    },
+    {
+        "name": "Religious Spread",
+        "ideas": [
+            " Expansion ideas",
+            " Divine ideas"
+        ],
+        "effects": [
+            " +1% Missionary strength",
+            " +1 Tolerance of the true faith"
+        ]
+    },
+    {
+        "name": "Omnism",
+        "ideas": [
+            " Humanist ideas",
+            " Divine ideas"
+        ],
+        "effects": [
+            " +2 Tolerance of heathens",
+            " +2 Tolerance of heretics"
+        ]
+    },
+    {
+        "name": "Ora et Labora",
+        "ideas": [
+            " Innovative ideas",
+            " Divine ideas"
+        ],
+        "effects": [
+            " +5% Goods produced modifier",
+            " −20% Land attrition"
+        ]
+    },
+    {
+        "name": "Administration of Sacred Land",
+        "ideas": [
+            " Administrative ideas",
+            " Indigenous ideas"
+        ],
+        "effects": [
+            " −10% Land maintenance modifier",
+            " −10% Development cost"
+        ]
+    },
+    {
+        "name": "Shared Land",
+        "ideas": [
+            " Expansion ideas",
+            " Indigenous ideas"
+        ],
+        "effects": [
+            " −15% Construction cost"
+        ]
+    },
+    {
+        "name": "Disruptive Innovation",
+        "ideas": [
+            " Innovative ideas",
+            " Indigenous ideas"
+        ],
+        "effects": [
+            " −5% Development cost",
+            " +20% Institution spread"
+        ]
+    },
+    {
+        "name": "Ancestor Worship",
+        "ideas": [
+            " Religious ideas",
+            " Indigenous ideas"
+        ],
+        "effects": [
+            " +1 Missionary",
+            " +1 Tolerance of the true faith"
+        ]
+    },
+    {
+        "name": "Aristocratic Rule",
+        "ideas": [
+            " Infrastructure ideas",
+            " Aristocratic ideas"
+        ],
+        "effects": [
+            " +10% Governing capacity modifier",
+            " −0.05 Monthly autonomy change"
+        ]
+    },
+    {
+        "name": "Plutocratic Rule",
+        "ideas": [
+            " Infrastructure ideas",
+            " Plutocratic ideas"
+        ],
+        "effects": [
+            " +25% Provincial trade power modifier"
+        ]
+    },
+    {
+        "name": "Theocratic Rule Act",
+        "ideas": [
+            " Infrastructure ideas",
+            " Divine ideas"
+        ],
+        "effects": [
+            " +1 Missionary",
+            " +0.5 Prestige per development from missionary"
+        ]
+    },
+    {
+        "name": "Toilet Paper Act",
+        "ideas": [
+            " Court ideas",
+            " Innovative ideas"
+        ],
+        "effects": [
+            " No stability loss on monarch death",
+            " +25% Average monarch lifespan"
+        ]
+    },
+    {
+        "name": "Zealous Court Act",
+        "ideas": [
+            " Court ideas",
+            " Religious ideas"
+        ],
+        "effects": [
+            " −5% War score cost vs other religions",
+            " +1 Tolerance of the true faith"
+        ]
+    },
+    {
+        "name": "Financial Miracle Act",
+        "ideas": [
+            " Court ideas",
+            " Economic ideas"
+        ],
+        "effects": [
+            " +10% Production efficiency",
+            " −10% Cost of advisors with ruler's culture"
+        ]
+    },
+    {
+        "name": "Subject Obligations Act",
+        "ideas": [
+            " Court ideas",
+            " Expansion ideas"
+        ],
+        "effects": [
+            " −15% Liberty desire in subjects",
+            " +10% Global tariffs"
+        ]
+    },
+    {
+        "name": "Big Government Act",
+        "ideas": [
+            " Court ideas",
+            " Administrative ideas"
+        ],
+        "effects": [
+            " −5% Core-creation cost",
+            " +15% National tax modifier"
+        ]
+    },
+    {
+        "name": "Humanitarian Administration Act",
+        "ideas": [
+            " Court ideas",
+            " Humanist ideas"
+        ],
+        "effects": [
+            " +2 Max promoted cultures"
+        ]
+    },
+    {
+        "name": "Blessed Construction Act",
+        "ideas": [
+            " Court ideas",
+            " Divine ideas"
+        ],
+        "effects": [
+            " −10% Construction cost"
+        ]
+    },
+    {
+        "name": "Military Innovation Act",
+        "ideas": [
+            " Mercenary ideas",
+            " Innovative ideas"
+        ],
+        "effects": [
+            " −33% Military advisor cost",
+            " −10% Military technology cost"
+        ]
+    },
+    {
+        "name": "Efficient War Taxes Act",
+        "ideas": [
+            " Mercenary ideas",
+            " Economic ideas"
+        ],
+        "effects": [
+            " +15% National tax modifier",
+            " +100% Possible condottieri"
+        ]
+    },
+    {
+        "name": "Peace-Keeping Force Act",
+        "ideas": [
+            " Mercenary ideas",
+            " Humanist ideas"
+        ],
+        "effects": [
+            " −25% Harsh treatment cost",
+            " +100% Rebel suppression efficiency"
+        ]
+    },
+    {
+        "name": "Indigenous Development Act",
+        "ideas": [
+            " Indigenous ideas",
+            " Infrastructure ideas"
+        ],
+        "effects": [
+            " −5% Development cost",
+            " +33% Institution spread"
+        ]
+    },
+    {
+        "name": "Mercenary Registration Act",
+        "ideas": [
+            " Administrative ideas",
+            " Mercenary ideas"
+        ],
+        "effects": [
+            " −20% Mercenary maintenance",
+            " May build supply depots"
+        ]
+    }
+]

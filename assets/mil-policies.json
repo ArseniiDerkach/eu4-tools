@@ -1,0 +1,708 @@
+[
+    {
+        "name": "The Privy Council Establishment Act",
+        "ideas": [
+            " Espionage ideas",
+            " Defensive ideas"
+        ],
+        "effects": [
+            " +15% Fort defense",
+            " −0.1 Yearly corruption"
+        ]
+    },
+    {
+        "name": "The Mercenary Registration Act",
+        "ideas": [
+            " Espionage ideas",
+            " Quantity ideas"
+        ],
+        "effects": [
+            " +10% National manpower modifier",
+            " +20% Mercenary manpower"
+        ]
+    },
+    {
+        "name": "Provincial Taxation System",
+        "ideas": [
+            " Administrative ideas",
+            " Quantity ideas"
+        ],
+        "effects": [
+            " −5% Land maintenance modifier",
+            " +15% Manpower recovery speed"
+        ]
+    },
+    {
+        "name": "The Mining Act",
+        "ideas": [
+            " Expansion ideas",
+            " Quality ideas"
+        ],
+        "effects": [
+            " +1 Land leader fire"
+        ]
+    },
+    {
+        "name": "The Liquor Act",
+        "ideas": [
+            " Quality ideas",
+            " Administrative ideas"
+        ],
+        "effects": [
+            " +15% Recover army morale speed",
+            " +15% Reinforce speed"
+        ]
+    },
+    {
+        "name": "Horse Artillery",
+        "ideas": [
+            " Offensive ideas",
+            " Economic ideas"
+        ],
+        "effects": [
+            " +10% Artillery combat ability"
+        ]
+    },
+    {
+        "name": "Public Road Act",
+        "ideas": [
+            " Offensive ideas",
+            " Trade ideas"
+        ],
+        "effects": [
+            " +10% Movement speed",
+            " +10% Trade efficiency"
+        ]
+    },
+    {
+        "name": "Superior Supply Systems",
+        "ideas": [
+            " Quality ideas",
+            " Exploration ideas"
+        ],
+        "effects": [
+            " +10% Manpower recovery speed",
+            " −25% Land attrition"
+        ]
+    },
+    {
+        "name": "Modern Siege Weapons",
+        "ideas": [
+            " Innovative ideas",
+            " Offensive ideas"
+        ],
+        "effects": [
+            " +10% Siege ability",
+            " +1 Leader siege"
+        ]
+    },
+    {
+        "name": "Superior Fortifications",
+        "ideas": [
+            " Innovative ideas",
+            " Defensive ideas"
+        ],
+        "effects": [
+            " +10% Fort defense",
+            " −33% Fort maintenance"
+        ]
+    },
+    {
+        "name": "Modern Firearm Techniques",
+        "ideas": [
+            " Innovative ideas",
+            " Quality ideas"
+        ],
+        "effects": [
+            " +15% Infantry combat ability"
+        ]
+    },
+    {
+        "name": "The Garrison System",
+        "ideas": [
+            " Innovative ideas",
+            " Quantity ideas"
+        ],
+        "effects": [
+            " −25% Fort maintenance",
+            " +15% Garrison size"
+        ]
+    },
+    {
+        "name": "The Military Zeal Act",
+        "ideas": [
+            " Quality ideas",
+            " Religious ideas"
+        ],
+        "effects": [
+            " +5% Morale damage",
+            " +10% Siege ability"
+        ]
+    },
+    {
+        "name": "Field Priests and Soldier's Prayer Books",
+        "ideas": [
+            " Religious ideas",
+            " Quantity ideas"
+        ],
+        "effects": [
+            " +10% Morale of armies",
+            " +5% Recover army morale speed"
+        ]
+    },
+    {
+        "name": "The Pen Relies on the Sword Act",
+        "ideas": [
+            " Diplomatic ideas",
+            " Quantity ideas"
+        ],
+        "effects": [
+            " +1 Diplomatic reputation",
+            " +10% Land force limit modifier"
+        ]
+    },
+    {
+        "name": "Local Army Organization",
+        "ideas": [
+            " Expansion ideas",
+            " Defensive ideas"
+        ],
+        "effects": [
+            " −10% Regiment cost",
+            " +15% Recover army morale speed"
+        ]
+    },
+    {
+        "name": "The Underhanded Diplomacy Act",
+        "ideas": [
+            " Diplomatic ideas",
+            " Offensive ideas"
+        ],
+        "effects": [
+            " +33% Spy network construction",
+            " +1 Diplomatic reputation"
+        ]
+    },
+    {
+        "name": "Hired Adventurers",
+        "ideas": [
+            " Quantity ideas",
+            " Exploration ideas"
+        ],
+        "effects": [
+            " +10% Movement speed",
+            " +1 Land leader maneuver"
+        ]
+    },
+    {
+        "name": "The Tenures Abolition Act",
+        "ideas": [
+            " Diplomatic ideas",
+            " Aristocratic ideas"
+        ],
+        "effects": [
+            " +0.5 Yearly army tradition",
+            " +1 Diplomat"
+        ]
+    },
+    {
+        "name": "Colonial Garrisons",
+        "ideas": [
+            " Quantity ideas",
+            " Expansion ideas"
+        ],
+        "effects": [
+            " +10% Land force limit modifier",
+            " +10 Global settler increase"
+        ]
+    },
+    {
+        "name": "The Maritime Intelligencer Unit",
+        "ideas": [
+            " Naval ideas",
+            " Espionage ideas"
+        ],
+        "effects": [
+            " +1 Blockade impact on siege",
+            " +10% Global naval engagement"
+        ]
+    },
+    {
+        "name": "The Nautical Education Act",
+        "ideas": [
+            " Naval ideas",
+            " Innovative ideas"
+        ],
+        "effects": [
+            " +15% Recover navy morale speed",
+            " +1 Naval leader fire"
+        ]
+    },
+    {
+        "name": "Zealous Captains",
+        "ideas": [
+            " Naval ideas",
+            " Religious ideas"
+        ],
+        "effects": [
+            " −10% Morale hit when losing a ship",
+            " +1 Naval leader shock"
+        ]
+    },
+    {
+        "name": "Autonomous Estates",
+        "ideas": [
+            " Influence ideas",
+            " Aristocratic ideas"
+        ],
+        "effects": [
+            " +5% All estates' loyalty equilibrium",
+            " +100% Vassal force limit contribution"
+        ]
+    },
+    {
+        "name": "Inspirational Leaders",
+        "ideas": [
+            " Humanist ideas",
+            " Quantity ideas"
+        ],
+        "effects": [
+            " +1 Land leader shock"
+        ]
+    },
+    {
+        "name": "The Naval Inspection Act",
+        "ideas": [
+            " Humanist ideas",
+            " Naval ideas"
+        ],
+        "effects": [
+            " +5% Ship durability",
+            " +10% Recover navy morale speed"
+        ]
+    },
+    {
+        "name": "The Preparation Act",
+        "ideas": [
+            " Humanist ideas",
+            " Defensive ideas"
+        ],
+        "effects": [
+            " −25% Land attrition",
+            " −0.05 Monthly war exhaustion"
+        ]
+    },
+    {
+        "name": "Local Militias",
+        "ideas": [
+            " Influence ideas",
+            " Defensive ideas"
+        ],
+        "effects": [
+            " −0.03 Monthly war exhaustion",
+            " +50% Garrison army damage"
+        ]
+    },
+    {
+        "name": "Foreign Conscription Centers",
+        "ideas": [
+            " Influence ideas",
+            " Offensive ideas"
+        ],
+        "effects": [
+            " −25% Reinforce cost",
+            " +1 Diplomatic relation"
+        ]
+    },
+    {
+        "name": "Guerrilla Warfare",
+        "ideas": [
+            " Influence ideas",
+            " Quantity ideas"
+        ],
+        "effects": [
+            " +1 Attrition for enemies",
+            " +5% Shock damage"
+        ]
+    },
+    {
+        "name": "Weapon Quality Standards",
+        "ideas": [
+            " Economic ideas",
+            " Quality ideas"
+        ],
+        "effects": [
+            " +5% Discipline"
+        ]
+    },
+    {
+        "name": "Noble Loyalty Act",
+        "ideas": [
+            " Aristocratic ideas",
+            " Espionage ideas"
+        ],
+        "effects": [
+            " +10% Nobility loyalty equilibrium",
+            " +10% Cavalry combat ability"
+        ]
+    },
+    {
+        "name": "The Colonial Nobility Act",
+        "ideas": [
+            " Aristocratic ideas",
+            " Exploration ideas"
+        ],
+        "effects": [
+            " +20% National manpower modifier"
+        ]
+    },
+    {
+        "name": "Noble Naval Traditions",
+        "ideas": [
+            " Aristocratic ideas",
+            " Maritime ideas"
+        ],
+        "effects": [
+            " +1 Max admiral maneuver",
+            " −0.5% Yearly navy tradition decay"
+        ]
+    },
+    {
+        "name": "The Military Allotment Act",
+        "ideas": [
+            " Espionage ideas",
+            " Plutocratic ideas"
+        ],
+        "effects": [
+            " +20% National manpower modifier"
+        ]
+    },
+    {
+        "name": "Unified Army Command",
+        "ideas": [
+            " Plutocratic ideas",
+            " Influence ideas"
+        ],
+        "effects": [
+            " +100% Vassal force limit contribution",
+            " −10% Liberty desire in subjects"
+        ]
+    },
+    {
+        "name": "Trade Kontor Network",
+        "ideas": [
+            " Plutocratic ideas",
+            " Trade ideas"
+        ],
+        "effects": [
+            " +1 Merchant",
+            " −10% Regiment cost"
+        ]
+    },
+    {
+        "name": "The Deserter Act",
+        "ideas": [
+            " Espionage ideas",
+            " Quality ideas"
+        ],
+        "effects": [
+            " −0.5% Yearly army tradition decay",
+            " +15% Reinforce speed"
+        ]
+    },
+    {
+        "name": "War Horses",
+        "ideas": [
+            " Horde ideas",
+            " Expansion ideas"
+        ],
+        "effects": [
+            " +0.5 Yearly army tradition",
+            " +10% Shock damage"
+        ]
+    },
+    {
+        "name": "The Best Defense",
+        "ideas": [
+            " Horde ideas",
+            " Innovative ideas"
+        ],
+        "effects": [
+            " −5% Shock damage received",
+            " −5% Fire damage received"
+        ]
+    },
+    {
+        "name": "Omne Datum Optimum",
+        "ideas": [
+            " Divine ideas",
+            " Administrative ideas"
+        ],
+        "effects": [
+            " +15% Manpower in true faith provinces",
+            " +10% Recover army morale speed"
+        ]
+    },
+    {
+        "name": "Wielders of the Flaming Sword",
+        "ideas": [
+            " Divine ideas",
+            " Religious ideas"
+        ],
+        "effects": [
+            " +10% Morale of armies"
+        ]
+    },
+    {
+        "name": "The Three Sisters",
+        "ideas": [
+            " Indigenous ideas",
+            " Economic ideas"
+        ],
+        "effects": [
+            " +5% Morale of armies",
+            " −15% Infantry cost"
+        ]
+    },
+    {
+        "name": "By the People, for the People",
+        "ideas": [
+            " Indigenous ideas",
+            " Humanist ideas"
+        ],
+        "effects": [
+            " +25% Fort defense",
+            " +10% Garrison size"
+        ]
+    },
+    {
+        "name": "War on Our Terms",
+        "ideas": [
+            " Indigenous ideas",
+            " Exploration ideas"
+        ],
+        "effects": [
+            " +2.5% Discipline",
+            " +10% Morale of armies"
+        ]
+    },
+    {
+        "name": "Fear Tactics",
+        "ideas": [
+            " Horde ideas",
+            " Diplomatic ideas"
+        ],
+        "effects": [
+            " +10% Shock damage",
+            " +10% Siege ability"
+        ]
+    },
+    {
+        "name": "Psychological Warfare",
+        "ideas": [
+            " Horde ideas",
+            " Espionage ideas"
+        ],
+        "effects": [
+            " +50% Cavalry flanking ability",
+            " +10% Cavalry combat ability"
+        ]
+    },
+    {
+        "name": "Kharash",
+        "ideas": [
+            " Horde ideas",
+            " Influence ideas"
+        ],
+        "effects": [
+            " +5% Morale of armies",
+            " +100% Vassal force limit contribution"
+        ]
+    },
+    {
+        "name": "My Word Is My Bond",
+        "ideas": [
+            " Divine ideas",
+            " Espionage ideas"
+        ],
+        "effects": [
+            " +10% Siege ability",
+            " +1 Artillery levels contribution to siege"
+        ]
+    },
+    {
+        "name": "Render Unto Caesar",
+        "ideas": [
+            " Divine ideas",
+            " Exploration ideas"
+        ],
+        "effects": [
+            " +10% National manpower modifier",
+            " +5% Land force limit modifier"
+        ]
+    },
+    {
+        "name": "Mobile Siege Engines Act",
+        "ideas": [
+            " Infrastructure ideas",
+            " Offensive ideas"
+        ],
+        "effects": [
+            " +5% Movement speed",
+            " +2 Artillery levels available vs fort"
+        ]
+    },
+    {
+        "name": "Bolstered Defence Act",
+        "ideas": [
+            " Infrastructure ideas",
+            " Defensive ideas"
+        ],
+        "effects": [
+            " +1 Attrition for enemies",
+            " +25% Garrison size"
+        ]
+    },
+    {
+        "name": "Handpicked Recruits Act",
+        "ideas": [
+            " Infrastructure ideas",
+            " Quality ideas"
+        ],
+        "effects": [
+            " +33% Army drill gain modifier",
+            " +0.25% Yearly army professionalism"
+        ]
+    },
+    {
+        "name": "Mass Conscription Act",
+        "ideas": [
+            " Infrastructure ideas",
+            " Quantity ideas"
+        ],
+        "effects": [
+            " +20% Reinforce speed",
+            " −20% Reinforce cost"
+        ]
+    },
+    {
+        "name": "Naval Armament Act",
+        "ideas": [
+            " Infrastructure ideas",
+            " Naval ideas"
+        ],
+        "effects": [
+            " −25% Shipbuilding time",
+            " +1 Fleet movement speed"
+        ]
+    },
+    {
+        "name": "Mercenary Tactical Deployment Act",
+        "ideas": [
+            " Infrastructure ideas",
+            " Mercenary ideas"
+        ],
+        "effects": [
+            " +5% Mercenary discipline"
+        ]
+    },
+    {
+        "name": "Universal Serfdom Act",
+        "ideas": [
+            " Court ideas",
+            " Aristocratic ideas"
+        ],
+        "effects": [
+            " +10% Nobility loyalty equilibrium",
+            " +15% National manpower modifier"
+        ]
+    },
+    {
+        "name": "Gentle Conquest Act",
+        "ideas": [
+            " Infrastructure ideas",
+            " Horde ideas"
+        ],
+        "effects": [
+            " −0.25 Global monthly devastation",
+            " −10% Land maintenance modifier"
+        ]
+    },
+    {
+        "name": "Sharp Wits Act",
+        "ideas": [
+            " Court ideas",
+            " Offensive ideas"
+        ],
+        "effects": [
+            " +25% Power projection from insults",
+            " +10% Morale damage"
+        ]
+    },
+    {
+        "name": "Sturdy Argument Act",
+        "ideas": [
+            " Court ideas",
+            " Defensive ideas"
+        ],
+        "effects": [
+            " −10% Aggressive expansion impact",
+            " −10% Morale damage received"
+        ]
+    },
+    {
+        "name": "Special Forces Act",
+        "ideas": [
+            " Court ideas",
+            " Quality ideas"
+        ],
+        "effects": [
+            " +10% Special unit force limit",
+            " +0.2% Yearly army professionalism"
+        ]
+    },
+    {
+        "name": "Plentiful Materials Act",
+        "ideas": [
+            " Court ideas",
+            " Quantity ideas"
+        ],
+        "effects": [
+            " −15% Artillery cost",
+            " −10% Infantry cost"
+        ]
+    },
+    {
+        "name": "Naval Competence Act",
+        "ideas": [
+            " Court ideas",
+            " Naval ideas"
+        ],
+        "effects": [
+            " +1 Naval leader maneuver",
+            " +1 Naval leader fire"
+        ]
+    },
+    {
+        "name": "Dutiful Mercenaries Act",
+        "ideas": [
+            " Mercenary ideas",
+            " Religious ideas"
+        ],
+        "effects": [
+            " +10% Morale of armies",
+            " +2% Missionary strength"
+        ]
+    },
+    {
+        "name": "Hired Expeditions Act",
+        "ideas": [
+            " Mercenary ideas",
+            " Expansion ideas"
+        ],
+        "effects": [
+            " Force march costs no power",
+            " +15% Recover army morale speed"
+        ]
+    }
+]
