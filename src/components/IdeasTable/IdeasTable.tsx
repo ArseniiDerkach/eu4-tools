@@ -1,21 +1,36 @@
-export default function IdeasTable() {
-    const handleClick = (row, col) => {
-        console.log(`Clicked cell at row ${row}, col ${col}`);
+import Idea from "../Idea/Idea";
+import Modal from "../Modal/Modal";
+
+type IdeasTableProps = {
+  isOpen: boolean
+  onToggle: React.Dispatch<React.SetStateAction<boolean>>
+}
+
+export default function IdeasTable( props: IdeasTableProps) {
+  const {isOpen, onToggle} = props;
+
+  
+    const handleClick = (id: number) => {
+        onToggle(prev => !prev);
       };
     
       return (
-        <div className="grid grid-cols-2 gap-2">
-          {[...Array(4)].map((_, row) => (
-            [...Array(2)].map((_, col) => (
-              <div
-                key={`${row}-${col}`}
-                className="p-4 border cursor-pointer"
-                onClick={() => handleClick(row, col)}
-              >
-                Cell {row + 1}, {col + 1}
-              </div>
-            ))
-          ))}
-        </div>
+        <>
+          <div className="grid grid-cols-2 gap-2">
+            {[...Array(8)].map((_, id) => (
+                <div
+                  key={id}
+                  className="p-4 border cursor-pointer"
+                  onClick={() => handleClick(id)}
+                >
+                  <Idea />
+                </div>
+              ))}
+          </div>
+          <Modal isOpen={isOpen} onClose={function (): void {
+            onToggle(false);
+            console.log('do something with modal')
+          } } children={<div>test modal</div>} />
+        </>
       );
 }

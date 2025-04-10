@@ -1,21 +1,16 @@
-import Idea from "../components/Idea/Idea";
+import { useState } from "react";
+import IdeasTable from "../components/IdeasTable/IdeasTable";
 
 export default function PoliciesPickerPage() {
+    const [isOpen, setIsOpen] = useState(false);
     const handleClick = (id: number) => {
         console.log(`Clicked cell #${id}`);
       };
     
       return (
-        <div className="grid grid-cols-2 gap-2">
-          {[...Array(8)].map((_, id) => (
-              <div
-                key={id}
-                className="p-4 border cursor-pointer"
-                onClick={() => handleClick(id)}
-              >
-                <Idea />
-              </div>
-            ))}
-        </div>
+        <>
+        <span>here policies table</span>
+        <IdeasTable isOpen={isOpen} onToggle={setIsOpen} />
+        </>
       );
 }
